@@ -1,0 +1,34 @@
+{
+    "bot": {
+        "name": "Imagination Bot",
+        "author": "Ruairiw8"
+    },
+    "commands": {
+        "dev": "dev",
+        "help": "help",
+        "info": "info",
+        "link": "link",
+        "test": "test",
+        "translate": "translate"
+    },
+    "arguments": {
+        "link": "link"
+    },
+    "colors": {
+        "default": "#0099ff",
+        "success": "#00ff83",
+        "warning": "#ffcc66",
+        "error": "#ff4a4a"
+    },
+    "links": {
+        "author": "https://github.com/ruairiwhite1",
+        "docs": "https://top.gg/",
+        "donate": "Coming soon!",
+        "invite": "https://discord.com/api/oauth2/authorize?client_id=948661221966639227&permissions=1374699383926&scope=bot%20applications.commands",
+        "source": "https://github.com/ruairiwhite1",
+        "stream": "https://www.twitch.tv/ruairiw8",
+        "support": "https://discord.gg/EXmTCgRrB9",
+        "template": "https://github.com/KevinNovak/Discord-Bot-TypeScript-Template",
+        "vote": "https://top.gg/"
+    }
+}
